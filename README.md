@@ -1,5 +1,5 @@
 # CURSO DE PLATZI
-Scarla Elisa Rodriguez Reynoso
+Scarla Elisa Rodriguez Reynoso #16
 
 # Mi primera línea de código
  Alert() sirve para disparar una "alerta" a la pantalla.
